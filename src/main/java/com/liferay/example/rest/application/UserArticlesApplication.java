@@ -154,10 +154,6 @@ public class UserArticlesApplication extends Application {
 		ObjectMapper mapper = new ObjectMapper();
 		ObjectNode contentNode = mapper.createObjectNode();
 
-		if (article.getContent().equals("Hola")) {
-			return contentNode;
-		}
-
 		// Get the document (XML format)
 		document = SAXReaderUtil.read(article.getContent());
 
