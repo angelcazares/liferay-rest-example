@@ -1,0 +1,5 @@
+Bundle-Name: LiferayRestExample
+Bundle-SymbolicName: com.liferay.example.rest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration
+Include-Resource: configuration=src/main/resources/configuration, @jackson-annotations-2.8.8.jar, @jackson-core-2.8.8.jar, @jackson-databind-2.8.8.jar
