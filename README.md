@@ -39,21 +39,11 @@ http://localhost:8080/o/user/articles	GET
 
 * [Jackson](https://github.com/FasterXML/jackson) - The web framework used
 * [Gradle](https://gradle.org/docs/) - Dependency Management
-* [JAX-RS](https://docs.oracle.com/javaee/7/tutorial/jaxrs.htm) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [JAX-RS](https://docs.oracle.com/javaee/7/tutorial/jaxrs.htm) - Used to generate RSS Feeds 
 
 ## Authors
 
-* **Angel Cazares** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Angel Cazares** - *Initial work* - [AngelCazares](https://github.com/angelcazares)
 
 ## License
 
