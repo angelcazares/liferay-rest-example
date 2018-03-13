@@ -33,7 +33,9 @@ This example uses the endpoint /user (if you are already using this endpoint, th
 
 ## REST Usage
 
-http://localhost:8080/o/user/articles	GET	
+| URL | Method | Description |
+| --- | --- | --- |
+| http://localhost:8080/o/user/articles | GET | Returns all the Journal Article's content created with the Structure *Basic-web-content*. |
 
 ## Built With
 
